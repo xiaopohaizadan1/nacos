@@ -1,0 +1,54 @@
+2020-05-27 19:07:54,983 WARN refresh server list failed, ignore it.
+
+2020-05-27 19:07:55,150 INFO initializing Raft sub-system
+
+2020-05-27 19:07:55,151 INFO finish loading all datums, size: 0 cost 1 ms.
+
+2020-05-27 19:07:55,151 INFO raft notifier started
+
+2020-05-27 19:07:55,152 INFO cache loaded, datum count: 0, current term: 0
+
+2020-05-27 19:07:55,152 INFO finish to load data from disk, cost: 2 ms.
+
+2020-05-27 19:07:55,155 INFO timer started: leader timeout ms: 15000, heart-beat timeout ms: 5000
+
+2020-05-27 19:07:56,474 INFO add listener: com.alibaba.nacos.naming.domains.meta.00-00---000-NACOS_SWITCH_DOMAIN-000---00-00
+
+2020-05-27 19:07:56,492 INFO add listener: com.alibaba.nacos.naming.domains.meta.
+
+2020-05-27 19:07:59,978 WARN refresh server list failed, ignore it.
+
+2020-05-27 19:08:04,980 WARN refresh server list failed, ignore it.
+
+2020-05-27 19:11:00,570 INFO initializing Raft sub-system
+
+2020-05-27 19:11:00,573 INFO raft notifier started
+
+2020-05-27 19:11:00,573 INFO finish loading all datums, size: 0 cost 0 ms.
+
+2020-05-27 19:11:00,576 INFO cache loaded, datum count: 0, current term: 0
+
+2020-05-27 19:11:00,576 INFO finish to load data from disk, cost: 3 ms.
+
+2020-05-27 19:11:00,360 INFO server list is updated, new: 1 servers: [{"adWeight":0,"alive":false,"ip":"172.19.132.151","key":"172.19.132.151:0","lastRefTime":0,"servePort":0,"site":"unknown","weight":1}]
+
+2020-05-27 19:11:00,589 INFO raft peers changed: [{"adWeight":0,"alive":false,"ip":"172.19.132.151","key":"172.19.132.151:0","lastRefTime":0,"lastRefTimeStr":"","servePort":0,"site":"unknown","weight":1}]
+
+2020-05-27 19:11:00,591 INFO timer started: leader timeout ms: 15000, heart-beat timeout ms: 5000
+
+2020-05-27 19:11:02,416 INFO add listener: com.alibaba.nacos.naming.domains.meta.00-00---000-NACOS_SWITCH_DOMAIN-000---00-00
+
+2020-05-27 19:11:02,428 INFO add listener: com.alibaba.nacos.naming.domains.meta.
+
+2020-05-27 19:11:05,355 INFO server list is updated, new: 1 servers: [{"adWeight":0,"alive":false,"ip":"172.19.132.151","key":"172.19.132.151:8848","lastRefTime":0,"lastRefTimeStr":"","servePort":8848,"site":"unknown","weight":1}]
+
+2020-05-27 19:11:05,355 INFO server list is updated, dead: 1, servers: [{"adWeight":0,"alive":false,"ip":"172.19.132.151","key":"172.19.132.151:0","lastRefTime":0,"lastRefTimeStr":"","servePort":0,"site":"unknown","weight":1}]
+
+2020-05-27 19:11:05,360 INFO raft peers changed: [{"adWeight":0,"alive":false,"ip":"172.19.132.151","key":"172.19.132.151:8848","lastRefTime":0,"lastRefTimeStr":"","servePort":8848,"site":"unknown","weight":1}]
+
+2020-05-27 19:11:08,365 INFO raft peers changed: [{"adWeight":0,"alive":false,"ip":"172.19.132.151","key":"172.19.132.151:8848","lastRefTime":0,"lastRefTimeStr":"","servePort":8848,"site":"unknown","weight":1}]
+
+2020-05-27 20:15:39,741 INFO raft peers changed: [{"adWeight":0,"alive":false,"ip":"172.19.132.151","key":"172.19.132.151:8848","lastRefTime":0,"lastRefTimeStr":"","servePort":8848,"site":"unknown","weight":1}]
+
+2020-05-27 20:15:41,739 INFO raft peers changed: [{"adWeight":0,"alive":false,"ip":"172.19.132.151","key":"172.19.132.151:8848","lastRefTime":0,"lastRefTimeStr":"","servePort":8848,"site":"unknown","weight":1}]
+

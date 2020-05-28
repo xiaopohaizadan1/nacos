@@ -1,0 +1,298 @@
+2020-05-28 13:40:29,221 INFO DEFAULT_GROUP@@alibaba-nacos-discovery-server is changed, add it to push queue.
+
+2020-05-28 13:43:17,883 INFO DEFAULT_GROUP@@alibaba-nacos-discovery-server is changed, add it to push queue.
+
+2020-05-28 13:43:17,892 INFO serviceName: DEFAULT_GROUP@@alibaba-nacos-discovery-server changed, schedule push for: 172.19.132.151:52579, agent: Nacos-Java-Client:v1.0.0, key: 172.19.132.151,52579,263711309929101
+
+2020-05-28 13:43:17,892 INFO send udp packet: 172.19.132.151,52579,263711309929101
+
+2020-05-28 13:43:27,912 INFO retry to push data, key: 172.19.132.151,52579,263711309929101
+
+2020-05-28 13:43:27,915 INFO send udp packet: 172.19.132.151,52579,263711309929101
+
+2020-05-28 13:43:37,919 INFO retry to push data, key: 172.19.132.151,52579,263711309929101
+
+2020-05-28 13:43:37,922 WARN max re-push times reached, retry times 2, key: 172.19.132.151,52579,263711309929101
+
+2020-05-28 13:49:18,778 INFO DEFAULT_GROUP@@alibaba-nacos-discovery-server is changed, add it to push queue.
+
+2020-05-28 13:49:18,780 INFO serviceName: DEFAULT_GROUP@@alibaba-nacos-discovery-server changed, schedule push for: 172.19.132.151:60371, agent: Nacos-Java-Client:v1.0.0, key: 172.19.132.151,60371,264072197604628
+
+2020-05-28 13:49:18,781 INFO send udp packet: 172.19.132.151,60371,264072197604628
+
+2020-05-28 13:49:18,805 INFO received ack: {"type": "push-ack", "lastRefTime":"264072197604628", "data":""} from: 172.19.132.151:60371, cost: 24 ms, unacked: 0, total push: 2
+
+2020-05-28 13:50:39,656 INFO DEFAULT_GROUP@@alibaba-nacos-discovery-client-common is changed, add it to push queue.
+
+2020-05-28 13:54:26,949 INFO DEFAULT_GROUP@@alibaba-nacos-discovery-server is changed, add it to push queue.
+
+2020-05-28 13:54:26,954 INFO serviceName: DEFAULT_GROUP@@alibaba-nacos-discovery-server changed, schedule push for: 172.19.132.151:60371, agent: Nacos-Java-Client:v1.0.0, key: 172.19.132.151,60371,264380364562493
+
+2020-05-28 13:54:26,954 INFO send udp packet: 172.19.132.151,60371,264380364562493
+
+2020-05-28 13:54:26,955 INFO serviceName: DEFAULT_GROUP@@alibaba-nacos-discovery-server changed, schedule push for: 172.19.132.151:64106, agent: Nacos-Java-Client:v1.0.0, key: 172.19.132.151,64106,264380364562493
+
+2020-05-28 13:54:26,955 INFO send udp packet: 172.19.132.151,64106,264380364562493
+
+2020-05-28 13:54:26,973 INFO received ack: {"type": "push-ack", "lastRefTime":"264380364562493", "data":""} from: 172.19.132.151:64106, cost: 18 ms, unacked: 1, total push: 4
+
+2020-05-28 13:54:36,956 INFO retry to push data, key: 172.19.132.151,60371,264380364562493
+
+2020-05-28 13:54:36,956 INFO send udp packet: 172.19.132.151,60371,264380364562493
+
+2020-05-28 13:54:37,081 INFO DEFAULT_GROUP@@alibaba-nacos-discovery-server is changed, add it to push queue.
+
+2020-05-28 13:54:37,082 INFO serviceName: DEFAULT_GROUP@@alibaba-nacos-discovery-server changed, schedule push for: 172.19.132.151:53262, agent: Nacos-Java-Client:v1.0.0, key: 172.19.132.151,53262,264390494773318
+
+2020-05-28 13:54:37,082 INFO send udp packet: 172.19.132.151,53262,264390494773318
+
+2020-05-28 13:54:37,083 INFO serviceName: DEFAULT_GROUP@@alibaba-nacos-discovery-server changed, schedule push for: 172.19.132.151:64106, agent: Nacos-Java-Client:v1.0.0, key: 172.19.132.151,64106,264390494773318
+
+2020-05-28 13:54:37,083 INFO send udp packet: 172.19.132.151,64106,264390494773318
+
+2020-05-28 13:54:37,088 INFO received ack: {"type": "push-ack", "lastRefTime":"264390494773318", "data":""} from: 172.19.132.151:64106, cost: 5 ms, unacked: 2, total push: 6
+
+2020-05-28 13:54:37,090 INFO received ack: {"type": "push-ack", "lastRefTime":"264390494773318", "data":""} from: 172.19.132.151:53262, cost: 8 ms, unacked: 1, total push: 6
+
+2020-05-28 13:54:46,960 INFO retry to push data, key: 172.19.132.151,60371,264380364562493
+
+2020-05-28 13:54:46,961 WARN max re-push times reached, retry times 2, key: 172.19.132.151,60371,264380364562493
+
+2020-05-28 14:00:50,759 INFO DEFAULT_GROUP@@alibaba-nacos-discovery-client-common is changed, add it to push queue.
+
+2020-05-28 14:00:50,760 INFO serviceName: DEFAULT_GROUP@@alibaba-nacos-discovery-client-common changed, schedule push for: 172.19.132.151:53262, agent: Nacos-Java-Client:v1.0.0, key: 172.19.132.151,53262,264764166558298
+
+2020-05-28 14:00:50,760 INFO send udp packet: 172.19.132.151,53262,264764166558298
+
+2020-05-28 14:00:50,767 INFO received ack: {"type": "push-ack", "lastRefTime":"264764166558298", "data":""} from: 172.19.132.151:53262, cost: 7 ms, unacked: 0, total push: 7
+
+2020-05-28 14:01:01,574 INFO DEFAULT_GROUP@@alibaba-nacos-discovery-client-common is changed, add it to push queue.
+
+2020-05-28 14:01:01,575 INFO serviceName: DEFAULT_GROUP@@alibaba-nacos-discovery-client-common changed, schedule push for: 172.19.132.151:55339, agent: Nacos-Java-Client:v1.0.0, key: 172.19.132.151,55339,264774981089172
+
+2020-05-28 14:01:01,575 INFO send udp packet: 172.19.132.151,55339,264774981089172
+
+2020-05-28 14:01:01,576 INFO serviceName: DEFAULT_GROUP@@alibaba-nacos-discovery-client-common changed, schedule push for: 172.19.132.151:53262, agent: Nacos-Java-Client:v1.0.0, key: 172.19.132.151,53262,264774981089172
+
+2020-05-28 14:01:01,576 INFO send udp packet: 172.19.132.151,53262,264774981089172
+
+2020-05-28 14:01:01,579 INFO received ack: {"type": "push-ack", "lastRefTime":"264774981089172", "data":""} from: 172.19.132.151:53262, cost: 3 ms, unacked: 1, total push: 9
+
+2020-05-28 14:01:01,582 INFO received ack: {"type": "push-ack", "lastRefTime":"264774981089172", "data":""} from: 172.19.132.151:55339, cost: 7 ms, unacked: 0, total push: 9
+
+2020-05-28 14:02:41,976 INFO DEFAULT_GROUP@@alibaba-nacos-discovery-server is changed, add it to push queue.
+
+2020-05-28 14:02:41,979 INFO serviceName: DEFAULT_GROUP@@alibaba-nacos-discovery-server changed, schedule push for: 172.19.132.151:55339, agent: Nacos-Java-Client:v1.0.0, key: 172.19.132.151,55339,264875382563272
+
+2020-05-28 14:02:41,979 INFO send udp packet: 172.19.132.151,55339,264875382563272
+
+2020-05-28 14:02:41,986 INFO serviceName: DEFAULT_GROUP@@alibaba-nacos-discovery-server changed, schedule push for: 172.19.132.151:53262, agent: Nacos-Java-Client:v1.0.0, key: 172.19.132.151,53262,264875382563272
+
+2020-05-28 14:02:41,987 INFO send udp packet: 172.19.132.151,53262,264875382563272
+
+2020-05-28 14:02:41,989 INFO received ack: {"type": "push-ack", "lastRefTime":"264875382563272", "data":""} from: 172.19.132.151:55339, cost: 10 ms, unacked: 1, total push: 11
+
+2020-05-28 14:02:49,951 INFO DEFAULT_GROUP@@alibaba-nacos-discovery-server is changed, add it to push queue.
+
+2020-05-28 14:02:49,953 INFO serviceName: DEFAULT_GROUP@@alibaba-nacos-discovery-server changed, schedule push for: 172.19.132.151:55339, agent: Nacos-Java-Client:v1.0.0, key: 172.19.132.151,55339,264883356518241
+
+2020-05-28 14:02:49,953 INFO send udp packet: 172.19.132.151,55339,264883356518241
+
+2020-05-28 14:02:49,953 INFO serviceName: DEFAULT_GROUP@@alibaba-nacos-discovery-server changed, schedule push for: 172.19.132.151:52652, agent: Nacos-Java-Client:v1.0.0, key: 172.19.132.151,52652,264883356518241
+
+2020-05-28 14:02:49,953 INFO send udp packet: 172.19.132.151,52652,264883356518241
+
+2020-05-28 14:02:49,957 INFO received ack: {"type": "push-ack", "lastRefTime":"264883356518241", "data":""} from: 172.19.132.151:55339, cost: 4 ms, unacked: 2, total push: 13
+
+2020-05-28 14:02:49,961 INFO received ack: {"type": "push-ack", "lastRefTime":"264883356518241", "data":""} from: 172.19.132.151:52652, cost: 8 ms, unacked: 1, total push: 13
+
+2020-05-28 14:02:51,989 INFO retry to push data, key: 172.19.132.151,53262,264875382563272
+
+2020-05-28 14:02:51,990 INFO send udp packet: 172.19.132.151,53262,264875382563272
+
+2020-05-28 14:02:58,686 INFO DEFAULT_GROUP@@alibaba-nacos-discovery-client-common is changed, add it to push queue.
+
+2020-05-28 14:02:58,688 INFO serviceName: DEFAULT_GROUP@@alibaba-nacos-discovery-client-common changed, schedule push for: 172.19.132.151:55339, agent: Nacos-Java-Client:v1.0.0, key: 172.19.132.151,55339,264892091956915
+
+2020-05-28 14:02:58,689 INFO send udp packet: 172.19.132.151,55339,264892091956915
+
+2020-05-28 14:02:58,690 INFO serviceName: DEFAULT_GROUP@@alibaba-nacos-discovery-client-common changed, schedule push for: 172.19.132.151:52652, agent: Nacos-Java-Client:v1.0.0, key: 172.19.132.151,52652,264892091956915
+
+2020-05-28 14:02:58,690 INFO send udp packet: 172.19.132.151,52652,264892091956915
+
+2020-05-28 14:02:58,696 INFO received ack: {"type": "push-ack", "lastRefTime":"264892091956915", "data":""} from: 172.19.132.151:52652, cost: 6 ms, unacked: 2, total push: 15
+
+2020-05-28 14:03:01,994 INFO retry to push data, key: 172.19.132.151,53262,264875382563272
+
+2020-05-28 14:03:01,994 WARN max re-push times reached, retry times 2, key: 172.19.132.151,53262,264875382563272
+
+2020-05-28 14:03:07,203 INFO DEFAULT_GROUP@@alibaba-nacos-discovery-client-common is changed, add it to push queue.
+
+2020-05-28 14:03:07,204 INFO serviceName: DEFAULT_GROUP@@alibaba-nacos-discovery-client-common changed, schedule push for: 172.19.132.151:52652, agent: Nacos-Java-Client:v1.0.0, key: 172.19.132.151,52652,264900607487966
+
+2020-05-28 14:03:07,204 INFO send udp packet: 172.19.132.151,52652,264900607487966
+
+2020-05-28 14:03:07,205 INFO serviceName: DEFAULT_GROUP@@alibaba-nacos-discovery-client-common changed, schedule push for: 172.19.132.151:52653, agent: Nacos-Java-Client:v1.0.0, key: 172.19.132.151,52653,264900607487966
+
+2020-05-28 14:03:07,205 INFO send udp packet: 172.19.132.151,52653,264900607487966
+
+2020-05-28 14:03:07,208 INFO received ack: {"type": "push-ack", "lastRefTime":"264900607487966", "data":""} from: 172.19.132.151:52652, cost: 4 ms, unacked: 2, total push: 17
+
+2020-05-28 14:03:07,214 INFO received ack: {"type": "push-ack", "lastRefTime":"264900607487966", "data":""} from: 172.19.132.151:52653, cost: 9 ms, unacked: 1, total push: 17
+
+2020-05-28 14:03:08,693 INFO retry to push data, key: 172.19.132.151,55339,264892091956915
+
+2020-05-28 14:03:08,722 INFO send udp packet: 172.19.132.151,55339,264892091956915
+
+2020-05-28 14:03:18,732 INFO retry to push data, key: 172.19.132.151,55339,264892091956915
+
+2020-05-28 14:03:18,733 WARN max re-push times reached, retry times 2, key: 172.19.132.151,55339,264892091956915
+
+2020-05-28 14:11:20,350 INFO DEFAULT_GROUP@@alibaba-nacos-discovery-client-common is changed, add it to push queue.
+
+2020-05-28 14:11:20,352 INFO serviceName: DEFAULT_GROUP@@alibaba-nacos-discovery-client-common changed, schedule push for: 172.19.132.151:52652, agent: Nacos-Java-Client:v1.0.0, key: 172.19.132.151,52652,265393746481656
+
+2020-05-28 14:11:20,353 INFO send udp packet: 172.19.132.151,52652,265393746481656
+
+2020-05-28 14:11:20,354 INFO serviceName: DEFAULT_GROUP@@alibaba-nacos-discovery-client-common changed, schedule push for: 172.19.132.151:52653, agent: Nacos-Java-Client:v1.0.0, key: 172.19.132.151,52653,265393746481656
+
+2020-05-28 14:11:20,354 INFO send udp packet: 172.19.132.151,52653,265393746481656
+
+2020-05-28 14:11:20,360 INFO received ack: {"type": "push-ack", "lastRefTime":"265393746481656", "data":""} from: 172.19.132.151:52652, cost: 7 ms, unacked: 1, total push: 19
+
+2020-05-28 14:11:29,291 INFO DEFAULT_GROUP@@alibaba-nacos-discovery-client-common is changed, add it to push queue.
+
+2020-05-28 14:11:29,291 INFO serviceName: DEFAULT_GROUP@@alibaba-nacos-discovery-client-common changed, schedule push for: 172.19.132.151:52652, agent: Nacos-Java-Client:v1.0.0, key: 172.19.132.151,52652,265402686348272
+
+2020-05-28 14:11:29,292 INFO send udp packet: 172.19.132.151,52652,265402686348272
+
+2020-05-28 14:11:29,292 INFO serviceName: DEFAULT_GROUP@@alibaba-nacos-discovery-client-common changed, schedule push for: 172.19.132.151:61211, agent: Nacos-Java-Client:v1.0.0, key: 172.19.132.151,61211,265402686348272
+
+2020-05-28 14:11:29,292 INFO send udp packet: 172.19.132.151,61211,265402686348272
+
+2020-05-28 14:11:29,295 INFO received ack: {"type": "push-ack", "lastRefTime":"265402686348272", "data":""} from: 172.19.132.151:52652, cost: 3 ms, unacked: 2, total push: 21
+
+2020-05-28 14:11:29,299 INFO received ack: {"type": "push-ack", "lastRefTime":"265402686348272", "data":""} from: 172.19.132.151:61211, cost: 7 ms, unacked: 1, total push: 21
+
+2020-05-28 14:11:30,355 INFO retry to push data, key: 172.19.132.151,52653,265393746481656
+
+2020-05-28 14:11:30,355 INFO send udp packet: 172.19.132.151,52653,265393746481656
+
+2020-05-28 14:11:40,361 INFO retry to push data, key: 172.19.132.151,52653,265393746481656
+
+2020-05-28 14:11:40,363 WARN max re-push times reached, retry times 2, key: 172.19.132.151,52653,265393746481656
+
+2020-05-28 14:13:02,640 INFO DEFAULT_GROUP@@alibaba-nacos-discovery-server is changed, add it to push queue.
+
+2020-05-28 14:13:02,642 INFO serviceName: DEFAULT_GROUP@@alibaba-nacos-discovery-server changed, schedule push for: 172.19.132.151:52652, agent: Nacos-Java-Client:v1.0.0, key: 172.19.132.151,52652,265496034315447
+
+2020-05-28 14:13:02,642 INFO send udp packet: 172.19.132.151,52652,265496034315447
+
+2020-05-28 14:13:02,642 INFO serviceName: DEFAULT_GROUP@@alibaba-nacos-discovery-server changed, schedule push for: 172.19.132.151:61211, agent: Nacos-Java-Client:v1.0.0, key: 172.19.132.151,61211,265496034315447
+
+2020-05-28 14:13:02,642 INFO send udp packet: 172.19.132.151,61211,265496034315447
+
+2020-05-28 14:13:02,649 INFO received ack: {"type": "push-ack", "lastRefTime":"265496034315447", "data":""} from: 172.19.132.151:61211, cost: 6 ms, unacked: 1, total push: 23
+
+2020-05-28 14:13:11,205 INFO DEFAULT_GROUP@@alibaba-nacos-discovery-server is changed, add it to push queue.
+
+2020-05-28 14:13:11,206 INFO serviceName: DEFAULT_GROUP@@alibaba-nacos-discovery-server changed, schedule push for: 172.19.132.151:63484, agent: Nacos-Java-Client:v1.0.0, key: 172.19.132.151,63484,265504598683760
+
+2020-05-28 14:13:11,206 INFO send udp packet: 172.19.132.151,63484,265504598683760
+
+2020-05-28 14:13:11,206 INFO serviceName: DEFAULT_GROUP@@alibaba-nacos-discovery-server changed, schedule push for: 172.19.132.151:61211, agent: Nacos-Java-Client:v1.0.0, key: 172.19.132.151,61211,265504598683760
+
+2020-05-28 14:13:11,206 INFO send udp packet: 172.19.132.151,61211,265504598683760
+
+2020-05-28 14:13:11,208 INFO received ack: {"type": "push-ack", "lastRefTime":"265504598683760", "data":""} from: 172.19.132.151:61211, cost: 2 ms, unacked: 2, total push: 25
+
+2020-05-28 14:13:11,211 INFO received ack: {"type": "push-ack", "lastRefTime":"265504598683760", "data":""} from: 172.19.132.151:63484, cost: 5 ms, unacked: 1, total push: 25
+
+2020-05-28 14:13:12,646 INFO retry to push data, key: 172.19.132.151,52652,265496034315447
+
+2020-05-28 14:13:12,646 INFO send udp packet: 172.19.132.151,52652,265496034315447
+
+2020-05-28 14:13:22,650 INFO retry to push data, key: 172.19.132.151,52652,265496034315447
+
+2020-05-28 14:13:22,652 WARN max re-push times reached, retry times 2, key: 172.19.132.151,52652,265496034315447
+
+2020-05-28 14:13:47,091 INFO DEFAULT_GROUP@@alibaba-nacos-discovery-client-common is changed, add it to push queue.
+
+2020-05-28 14:13:47,092 INFO serviceName: DEFAULT_GROUP@@alibaba-nacos-discovery-client-common changed, schedule push for: 172.19.132.151:63484, agent: Nacos-Java-Client:v1.0.0, key: 172.19.132.151,63484,265540483999094
+
+2020-05-28 14:13:47,092 INFO send udp packet: 172.19.132.151,63484,265540483999094
+
+2020-05-28 14:13:47,092 INFO serviceName: DEFAULT_GROUP@@alibaba-nacos-discovery-client-common changed, schedule push for: 172.19.132.151:61211, agent: Nacos-Java-Client:v1.0.0, key: 172.19.132.151,61211,265540483999094
+
+2020-05-28 14:13:47,092 INFO send udp packet: 172.19.132.151,61211,265540483999094
+
+2020-05-28 14:13:47,096 INFO received ack: {"type": "push-ack", "lastRefTime":"265540483999094", "data":""} from: 172.19.132.151:63484, cost: 4 ms, unacked: 1, total push: 27
+
+2020-05-28 14:13:55,727 INFO DEFAULT_GROUP@@alibaba-nacos-discovery-client-common is changed, add it to push queue.
+
+2020-05-28 14:13:55,728 INFO serviceName: DEFAULT_GROUP@@alibaba-nacos-discovery-client-common changed, schedule push for: 172.19.132.151:63485, agent: Nacos-Java-Client:v1.0.0, key: 172.19.132.151,63485,265549119755753
+
+2020-05-28 14:13:55,728 INFO send udp packet: 172.19.132.151,63485,265549119755753
+
+2020-05-28 14:13:55,728 INFO serviceName: DEFAULT_GROUP@@alibaba-nacos-discovery-client-common changed, schedule push for: 172.19.132.151:63484, agent: Nacos-Java-Client:v1.0.0, key: 172.19.132.151,63484,265549119755753
+
+2020-05-28 14:13:55,728 INFO send udp packet: 172.19.132.151,63484,265549119755753
+
+2020-05-28 14:13:55,732 INFO received ack: {"type": "push-ack", "lastRefTime":"265549119755753", "data":""} from: 172.19.132.151:63484, cost: 4 ms, unacked: 2, total push: 29
+
+2020-05-28 14:13:55,736 INFO received ack: {"type": "push-ack", "lastRefTime":"265549119755753", "data":""} from: 172.19.132.151:63485, cost: 8 ms, unacked: 1, total push: 29
+
+2020-05-28 14:13:57,097 INFO retry to push data, key: 172.19.132.151,61211,265540483999094
+
+2020-05-28 14:13:57,097 INFO send udp packet: 172.19.132.151,61211,265540483999094
+
+2020-05-28 14:14:07,102 INFO retry to push data, key: 172.19.132.151,61211,265540483999094
+
+2020-05-28 14:14:07,103 WARN max re-push times reached, retry times 2, key: 172.19.132.151,61211,265540483999094
+
+2020-05-28 14:14:26,841 INFO DEFAULT_GROUP@@alibaba-nacos-discovery-client-common is changed, add it to push queue.
+
+2020-05-28 14:14:26,845 INFO serviceName: DEFAULT_GROUP@@alibaba-nacos-discovery-client-common changed, schedule push for: 172.19.132.151:63485, agent: Nacos-Java-Client:v1.0.0, key: 172.19.132.151,63485,265580235303812
+
+2020-05-28 14:14:26,845 INFO send udp packet: 172.19.132.151,63485,265580235303812
+
+2020-05-28 14:14:26,845 INFO serviceName: DEFAULT_GROUP@@alibaba-nacos-discovery-client-common changed, schedule push for: 172.19.132.151:63484, agent: Nacos-Java-Client:v1.0.0, key: 172.19.132.151,63484,265580235303812
+
+2020-05-28 14:14:26,845 INFO send udp packet: 172.19.132.151,63484,265580235303812
+
+2020-05-28 14:14:26,849 INFO received ack: {"type": "push-ack", "lastRefTime":"265580235303812", "data":""} from: 172.19.132.151:63484, cost: 4 ms, unacked: 1, total push: 31
+
+2020-05-28 14:14:29,132 INFO DEFAULT_GROUP@@alibaba-nacos-discovery-server is changed, add it to push queue.
+
+2020-05-28 14:14:29,133 INFO serviceName: DEFAULT_GROUP@@alibaba-nacos-discovery-server changed, schedule push for: 172.19.132.151:63485, agent: Nacos-Java-Client:v1.0.0, key: 172.19.132.151,63485,265582524306599
+
+2020-05-28 14:14:29,133 INFO send udp packet: 172.19.132.151,63485,265582524306599
+
+2020-05-28 14:14:29,135 INFO serviceName: DEFAULT_GROUP@@alibaba-nacos-discovery-server changed, schedule push for: 172.19.132.151:63484, agent: Nacos-Java-Client:v1.0.0, key: 172.19.132.151,63484,265582524306599
+
+2020-05-28 14:14:29,135 INFO send udp packet: 172.19.132.151,63484,265582524306599
+
+2020-05-28 14:14:36,850 INFO retry to push data, key: 172.19.132.151,63485,265580235303812
+
+2020-05-28 14:14:36,850 INFO send udp packet: 172.19.132.151,63485,265580235303812
+
+2020-05-28 14:14:39,138 INFO retry to push data, key: 172.19.132.151,63485,265582524306599
+
+2020-05-28 14:14:39,138 INFO send udp packet: 172.19.132.151,63485,265582524306599
+
+2020-05-28 14:14:39,139 INFO retry to push data, key: 172.19.132.151,63484,265582524306599
+
+2020-05-28 14:14:39,139 INFO send udp packet: 172.19.132.151,63484,265582524306599
+
+2020-05-28 14:14:46,855 INFO retry to push data, key: 172.19.132.151,63485,265580235303812
+
+2020-05-28 14:14:46,855 WARN max re-push times reached, retry times 2, key: 172.19.132.151,63485,265580235303812
+
+2020-05-28 14:14:49,142 INFO retry to push data, key: 172.19.132.151,63485,265582524306599
+
+2020-05-28 14:14:49,143 WARN max re-push times reached, retry times 2, key: 172.19.132.151,63485,265582524306599
+
+2020-05-28 14:14:49,143 INFO retry to push data, key: 172.19.132.151,63484,265582524306599
+
+2020-05-28 14:14:49,143 WARN max re-push times reached, retry times 2, key: 172.19.132.151,63484,265582524306599
+

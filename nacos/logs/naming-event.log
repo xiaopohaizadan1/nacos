@@ -1,0 +1,80 @@
+2020-05-28 13:40:28,169 INFO DEFAULT_GROUP@@alibaba-nacos-discovery-server {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [172.19.132.151:8001:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-05-28 13:40:28,221 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@alibaba-nacos-discovery-server, ips: 172.19.132.151:8001_true,
+
+2020-05-28 13:43:16,878 INFO DEFAULT_GROUP@@alibaba-nacos-discovery-server {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [172.19.132.151:8001:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-05-28 13:43:16,878 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@alibaba-nacos-discovery-server, ips: 
+
+2020-05-28 13:49:17,773 INFO DEFAULT_GROUP@@alibaba-nacos-discovery-server {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [172.19.132.151:8001:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-05-28 13:49:17,774 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@alibaba-nacos-discovery-server, ips: 172.19.132.151:8001_true,
+
+2020-05-28 13:50:38,650 INFO DEFAULT_GROUP@@alibaba-nacos-discovery-client-common {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [172.19.132.151:9000:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-05-28 13:50:38,652 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@alibaba-nacos-discovery-client-common, ips: 172.19.132.151:9000_true,
+
+2020-05-28 13:54:25,945 INFO DEFAULT_GROUP@@alibaba-nacos-discovery-server {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [172.19.132.151:8001:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-05-28 13:54:25,947 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@alibaba-nacos-discovery-server, ips: 
+
+2020-05-28 13:54:36,078 INFO DEFAULT_GROUP@@alibaba-nacos-discovery-server {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [172.19.132.151:8001:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-05-28 13:54:36,078 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@alibaba-nacos-discovery-server, ips: 172.19.132.151:8001_true,
+
+2020-05-28 14:00:49,758 INFO DEFAULT_GROUP@@alibaba-nacos-discovery-client-common {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [172.19.132.151:9000:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-05-28 14:00:49,758 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@alibaba-nacos-discovery-client-common, ips: 
+
+2020-05-28 14:01:00,570 INFO DEFAULT_GROUP@@alibaba-nacos-discovery-client-common {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [172.19.132.151:9000:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-05-28 14:01:00,570 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@alibaba-nacos-discovery-client-common, ips: 172.19.132.151:9000_true,
+
+2020-05-28 14:02:40,970 INFO DEFAULT_GROUP@@alibaba-nacos-discovery-server {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [172.19.132.151:8001:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-05-28 14:02:40,971 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@alibaba-nacos-discovery-server, ips: 
+
+2020-05-28 14:02:48,948 INFO DEFAULT_GROUP@@alibaba-nacos-discovery-server {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [172.19.132.151:8001:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-05-28 14:02:48,948 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@alibaba-nacos-discovery-server, ips: 172.19.132.151:8001_true,
+
+2020-05-28 14:02:57,682 INFO DEFAULT_GROUP@@alibaba-nacos-discovery-client-common {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [172.19.132.151:9000:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-05-28 14:02:57,682 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@alibaba-nacos-discovery-client-common, ips: 
+
+2020-05-28 14:03:06,200 INFO DEFAULT_GROUP@@alibaba-nacos-discovery-client-common {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [172.19.132.151:9000:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-05-28 14:03:06,201 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@alibaba-nacos-discovery-client-common, ips: 172.19.132.151:9000_true,
+
+2020-05-28 14:11:19,347 INFO DEFAULT_GROUP@@alibaba-nacos-discovery-client-common {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [172.19.132.151:9000:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-05-28 14:11:19,347 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@alibaba-nacos-discovery-client-common, ips: 
+
+2020-05-28 14:11:28,287 INFO DEFAULT_GROUP@@alibaba-nacos-discovery-client-common {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [172.19.132.151:9000:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-05-28 14:11:28,287 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@alibaba-nacos-discovery-client-common, ips: 172.19.132.151:9000_true,
+
+2020-05-28 14:13:01,637 INFO DEFAULT_GROUP@@alibaba-nacos-discovery-server {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [172.19.132.151:8001:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-05-28 14:13:01,637 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@alibaba-nacos-discovery-server, ips: 
+
+2020-05-28 14:13:10,204 INFO DEFAULT_GROUP@@alibaba-nacos-discovery-server {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [172.19.132.151:8001:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-05-28 14:13:10,204 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@alibaba-nacos-discovery-server, ips: 172.19.132.151:8001_true,
+
+2020-05-28 14:13:46,089 INFO DEFAULT_GROUP@@alibaba-nacos-discovery-client-common {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [172.19.132.151:9000:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-05-28 14:13:46,089 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@alibaba-nacos-discovery-client-common, ips: 
+
+2020-05-28 14:13:54,722 INFO DEFAULT_GROUP@@alibaba-nacos-discovery-client-common {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [172.19.132.151:9000:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-05-28 14:13:54,723 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@alibaba-nacos-discovery-client-common, ips: 172.19.132.151:9000_true,
+
+2020-05-28 14:14:25,836 INFO DEFAULT_GROUP@@alibaba-nacos-discovery-client-common {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [172.19.132.151:9000:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-05-28 14:14:25,837 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@alibaba-nacos-discovery-client-common, ips: 
+
+2020-05-28 14:14:28,129 INFO DEFAULT_GROUP@@alibaba-nacos-discovery-server {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [172.19.132.151:8001:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-05-28 14:14:28,129 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@alibaba-nacos-discovery-server, ips: 
+
